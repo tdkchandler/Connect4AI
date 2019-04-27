@@ -10,7 +10,7 @@ Ranking difficulties from least to greatest:
 2. makeChoiceSmartRandom()  // Check to see if there is a possible immediate win. 
                             // Will also check which moves will result in an immediate loss.
 3. makeChoiceSmart()        // Plays itself 4 moves deep and chooses the option with most chance to win.
-4. makeChoiceSmart2()        // Plays itself 6 moves deep and chooses the option with most chance to win.
+4. makeChoiceSmart2()       // Plays itself 6 moves deep and chooses the option with most chance to win.
 
 
 If ran in Eclipse, the console will display the weighing system after it finishes generating its data set.
